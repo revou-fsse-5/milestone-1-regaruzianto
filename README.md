@@ -1,4 +1,6 @@
 
+This repository forked from revou-fsse-5/milestone-1-regaruzianto
+
 Wlizzard is a game company profile website, containing information about the games currently being developed and news about those games.The site covers news, development updates, and specific details about each game in their portfolio.
 
 This website consists of a header, main, and footer. The header includes a logo, navigation menu, and buttons for login and download. The main section features home, news, and feature games sections. The website is deployed on Netlify with a custom domain purchased from Niaga Hoster.
